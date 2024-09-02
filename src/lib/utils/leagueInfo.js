@@ -30,7 +30,7 @@ export const managers = [
       "managerID": "593213172454834176",
       "name": "Evan (EvSams) Samson",
      // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Mass", // (optional)
+      "location": "Massachusetts", // (optional)
       "bio": "Tenuos Connection 2 Trumbull > OB",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -99,7 +99,7 @@ export const managers = [
       "managerID": "1002669987447808000",
       "name": "Justin (Wally-Commish) Waldek",
      // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Mass", // (optional)
+      "location": "Massachusetts", // (optional)
       "bio": "Tenuos Connection 2 Trumbull > OG",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -214,7 +214,7 @@ export const managers = [
       "managerID": "1002734822353133568",
       "name": "Benny (Breecy) Hazen",
      // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Mass", // (optional)
+      "location": "Massachusetts", // (optional)
       "bio": "Tenuos Connection 2 Trumbull > OG",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -260,7 +260,7 @@ export const managers = [
       "managerID": "1004225739438305280",
       "name": "Aaron (Corn) Corn",
      // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "New York", // (optional)
+      "location": "Massachusetts", // (optional)
       "bio": "Tenuos Connection 2 Trumbull > Kenloose",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
