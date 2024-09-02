@@ -96,7 +96,7 @@ export const managers = [
     },
   {
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "999162513486929920",
+      "managerID": "1002669987447808000",
       "name": "Justin (Wally-Commish) Waldek",
      // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Mass", // (optional)
